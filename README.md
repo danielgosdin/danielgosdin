@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielgosdin
-- 👀 I’m interested in projects that help me to become proficient in Python (and eventually other programming languages), and I would like to learn more about feeback control systems engineering
-- 🌱 I’m currently learning Python and basic Raspberry Pi functionality
-- 💞️ I’m looking to collaborate on projects to expand my portfolio to understand data analytics and feeback controls. I mainly want to learn how sensors talk to and respond to computers for some small hobby projects.
+- 👀 I’m interested in projects that help me to become proficient in Solidity and JavaScript
+- 🌱 I’m currently learning Solidity and basics of the Ethereum Network
+- 💞️ I’m looking to collaborate on projects to expand my portfolio to understand web3 development and analytics. I mainly want to learn how to create smart contracts and web apps in Solidity and JavaScript
 - 📫 How to reach me dgosdin19@gmail.com
 
 <!---
